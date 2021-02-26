@@ -55,7 +55,7 @@ img_width = 178
 
 tf.keras.backend.clear_session()
 
-for x in range(2,11):
+for x in range(0,10):
 
 	print("--------------Model1---------------")
 	print("---------------relu----------------")
